@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CS373 Spring 2017: Walter Sagehorn
-tagline: Supporting tagline
+tagline: None
 ---
 {% include JB/setup %}
 
